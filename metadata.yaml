@@ -1,0 +1,39 @@
+_repo: Brotherly-LoveShewing-That-as-Merely-Human-It-May-Not-Always-Be-Depended-Upon_11213
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Kelly, Sophia
+    aliases:
+    - Kelly, Sophia Sherwood Streeten
+    - Streeten, Mrs. (Sophia)
+    birthdate: 1815
+    gutenberg_agent_id: '38400'
+    url: http://www.gutenberg.org/2009/agents/38400
+  - agent_name: Sherwood, Mrs. (Mary Martha)
+    aliases:
+    - Sherwood, Mrs.
+    - Sherwood, Mary Martha Butt
+    birthdate: 1775
+    deathdate: 1851
+    gutenberg_agent_id: '4312'
+    url: http://www.gutenberg.org/2009/agents/4312
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11213'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile literature'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Conduct of life -- Juvenile literature'
+- !lcsh 'Brothers -- Juvenile literature'
+- !lcsh 'Pride and vanity -- Juvenile literature'
+- GITenberg
+title: 'Brotherly Love
+
+  Shewing That as Merely Human It May Not Always Be Depended Upon'
+url: http://www.gutenberg.org/ebooks/11213
